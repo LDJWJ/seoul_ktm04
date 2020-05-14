@@ -118,8 +118,8 @@ from sklearn.model_selection import train_test_split
 
 
 X = cancer.data
-Y = cancer.target
-X_train, X_test, y_train, y_test = train_test_split(X, Y, 
+y = cancer.target
+X_train, X_test, y_train, y_test = train_test_split(X, y, 
                                          stratify=cancer.target,     
                                          random_state=77)
 
