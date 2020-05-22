@@ -1,0 +1,21 @@
+2020/05/15
+- Review
+- Kaspersky Korea 설치
+- 텍스트 데이터 워드 클라우드
+- 프로젝트
+  * PPT 중간 확인 7교시
+
+- Github 
+  * Today_learn 레포지트리 만들기
+  * Project 폴더 만들기
+
+- 수업 내용
+ -- 3_2_Konlpy01_with_Colab_v10.pdf
+ -- 3_2_Konlpy02_with_Colab_v10.pdf
+ -- 3_2_Konlpy01_with_Colab_v10.py
+ -- 3_2_Konlpy02_with_Colab_v10.py
+
+- 자료 다운로드(data source)
+ -- 01 빅데이터 분석 결과 시각화 - data_source - konlpy_source
+  -> 해당 파일 다운로드 받기
+
