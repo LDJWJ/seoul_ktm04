@@ -104,7 +104,7 @@
 	</tr>
 	<tr>
 		<td><div align="center"><b>Team Members</b></div></td>
-		<td><div align="left" > 홍길동3, TOTO, 이기자2, 굿프렌즈 </div></td>
+		<td><div align="left" > 민지, 희경, 석민  </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Report</b></div></td>
@@ -134,15 +134,15 @@
 	</tr>
 	<tr>
 		<td><div align="center"><b>Team Members</b></div></td>
-		<td><div align="left" > 홍길동3, TOTO, 이기자2, 굿프렌즈 </div></td>
+		<td><div align="left" > 재욱, 필훈, 예슬  </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Report</b></div></td>
 		<td>
 			<div align="left" > 
-				<a href="reports/SBA19_S1_착수보고서_A팀.pdf">[A팀 착수보고]</a>, &nbsp;&nbsp;&nbsp; 
-				<a href="reports/SBA19_S1_착수보고서_A팀.pdf">[A팀 결과보고]</a>, &nbsp;&nbsp;&nbsp;
-				<a href="reports/Team_A/code/">[A팀 소스코드]</a>  
+				<a href="reports/SBA19_S1_착수보고서_B팀.pdf">[B팀 착수보고]</a>, &nbsp;&nbsp;&nbsp; 
+				<a href="reports/SBA19_S1_착수보고서_B팀.pdf">[B팀 결과보고]</a>, &nbsp;&nbsp;&nbsp;
+				<a href="reports/Team_A/code/">[B팀 소스코드]</a>  
 			</div>
 		</td>
 	</tr>
