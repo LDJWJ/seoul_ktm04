@@ -82,23 +82,6 @@
             </div>
         </td>
 	</tr>
-	<tr>
-		<td>
-        <div align="center"> 
-            C팀<br/> 
-            <b>Team Name3</b>                                                                                                   </div></td>
-		<td>
-            <div align="left"  > 
-                 홍길동3, TOTO<br/> 이기자2, 굿프렌즈3                                                             </div>
-        </td>
-		<td><div align="left"  > 마케팅 빅데이터 활용 </div></td>
-		<td>
-            <div align="center"> <a href="reports/..">
-            <img src='images/marketing_pixa_free_1920.jpg' width=200 height=100></a>    
-            </div>
-        </td>
-	</tr>
-
 <hr>
 
 [![Video Label](images/sba19_memorys.jpg)](https://youtu.be/ts2FFGpPqpA)  
@@ -128,6 +111,7 @@
 		<td>
 			<div align="left" > 
 				<a href="reports/SBA19_S1_착수보고서_A팀.pdf">[A팀 착수보고]</a>, &nbsp;&nbsp;&nbsp; 
+				<a href="reports/SBA19_S1_착수보고서_A팀.pdf">[A팀 결과보고]</a>, &nbsp;&nbsp;&nbsp;
 				<a href="reports/Team_A/code/">[A팀 소스코드]</a>  
 			</div>
 		</td>
@@ -142,7 +126,36 @@
 	</tr>
 </table>
 </div>
-
+<div align=left width=100%>
+<table border=1 width=100%>
+	<tr>
+		<td width="25%"><div align="center"><b>Project Team</b></div></td>
+		<td width="75%"><div align="left" > 팀명 </div></td>
+	</tr>
+	<tr>
+		<td><div align="center"><b>Team Members</b></div></td>
+		<td><div align="left" > 홍길동3, TOTO, 이기자2, 굿프렌즈 </div></td>
+	</tr>
+	<tr>
+		<td><div align="center"><b>Report</b></div></td>
+		<td>
+			<div align="left" > 
+				<a href="reports/SBA19_S1_착수보고서_A팀.pdf">[A팀 착수보고]</a>, &nbsp;&nbsp;&nbsp; 
+				<a href="reports/SBA19_S1_착수보고서_A팀.pdf">[A팀 결과보고]</a>, &nbsp;&nbsp;&nbsp;
+				<a href="reports/Team_A/code/">[A팀 소스코드]</a>  
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td><div align="center"><b>Subject</b></div></td>
+		<td><div align="left" > 의료 빅데이터를 활용 방안 모색</div></td>
+	</tr>
+	<tr>
+		<td><div align="center"><b>Presentation</b></div></td>
+		<td><div align="left" ><a href="reports/SBA19_최종보고서01.txt"><img src="images/medical_pixabay_free.jpg" width="90%"></a></div></td>
+	</tr>
+</table>
+</div>
 
 <hr>
 <div align='right'><font size=2 color='gray'> &lt; The End &gt; </font></div>
