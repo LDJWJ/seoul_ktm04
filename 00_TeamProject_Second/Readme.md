@@ -28,7 +28,7 @@
 - Proj-02. [프로젝트보고서 포맷           ][proj-02]
 
 
-[proj-01]:  ./docu/R_Stat_Problem_v10_0924.pdf             "Go proj-01"
+[proj-01]:  ./docu/R_Stat_Portfolio_v10_0924.pdf           "Go proj-01"
 [proj-02]:  ./docu/Big5기_프로젝트보고서_포맷_OOO팀.docx     "Go proj-02"
 
 <hr>
