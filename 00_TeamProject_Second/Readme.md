@@ -57,7 +57,7 @@
             <b>Team Name1</b>                                                                                                   </div></td>
 		<td>
             <div align="left"  > 
-                 홍길동, TOTO<br/> 이기자, 굿프렌즈                                                             </div>
+                 민지<br/> 희경, 석민, 굿프렌즈                                                        </div>
         </td>
 		<td><div align="left"  > 취업 지역 불평등 문제 해결하기 </div></td>
 		<td>
@@ -73,7 +73,7 @@
             <b>Team Name2</b>                                                                                                   </div></td>
 		<td>
             <div align="left"  > 
-                 홍길동, TOTO<br/> 이기자, 굿프렌즈                                                             </div>
+                 재욱, 필훈<br/> 예슬, 굿프렌즈                                                             </div>
         </td>
 		<td><div align="left"  > 빅데이터 의료 평등화 해결하기 </div></td>
 		<td>
