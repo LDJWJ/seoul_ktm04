@@ -53,8 +53,8 @@
 	<tr>
 		<td>
         <div align="center"> 
-            최고 멋진 친구들<br/> 
-            <b>Team Name1</b>                                                                                                   </div></td>
+            A팀<br/> 
+            <b>최고 멋진 친구들</b>                                                                                                   </div></td>
 		<td>
             <div align="left"  > 
                  민지<br/> 희경, 석민, 은지                                                        </div>
@@ -73,7 +73,7 @@
             <b>Team Name2</b>                                                                                                   </div></td>
 		<td>
             <div align="left"  > 
-                 재욱, 필훈<br/> 예슬, 종규                                                             </div>
+                 재욱<br/> 필훈, 지영, 예슬, 종규                                                             </div>
         </td>
 		<td><div align="left"  > 빅데이터 의료 평등화 해결하기 </div></td>
 		<td>
@@ -83,8 +83,7 @@
         </td>
 	</tr>
 <hr>
-
-[![Video Label](images/sba19_memorys.jpg)](https://youtu.be/ts2FFGpPqpA)  
+ 
 ### 서울 IT 빅데이터 실무자 양성과정 5기 !!  최고 멋진 친구들 버전 화이팅!!! ver3 ^^
 
 <hr>
@@ -104,7 +103,7 @@
 	</tr>
 	<tr>
 		<td><div align="center"><b>Team Members</b></div></td>
-		<td><div align="left" > 민지, 희경, 석민  </div></td>
+		<td><div align="left" > 민지, 희경, 석민, 은지  </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Report</b></div></td>
@@ -134,7 +133,7 @@
 	</tr>
 	<tr>
 		<td><div align="center"><b>Team Members</b></div></td>
-		<td><div align="left" > 재욱, 필훈, 예슬  </div></td>
+		<td><div align="left" > 재욱, 필훈, 지영, 예슬, 종규   </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Report</b></div></td>
