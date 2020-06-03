@@ -36,7 +36,7 @@
 
 ##  <font color='#00AAAA'>Team Project : Kick Off</font>
 
-- <b>1st Subject </b>: <font color='#CC0000'><b>Analyze Social Issues Using BigData </b></font>
+- <b>1st Subject </b>: <font color='#CC0000'><b>빅데이터 수집부터 EDA, 분석 </b></font>
 - <b>Our Motto   </b>: <font color='#CC0000'><b>Learning by doing, doing by learning !! </b></font>
 - <b>Report Format </b>: <a href="./docu/Big5기_프로젝트보고서_포맷_OOO팀.docx">착수보고서 양식</a>
 - ※ If you click on the image on the right, you can view "Initiation Report" by team.
