@@ -36,7 +36,7 @@
 
 ##  <font color='#00AAAA'>Team Project : Kick Off</font>
 
-- <b>1st Subject </b>: <font color='#CC0000'><b>빅데이터 수집부터 EDA, 분석 </b></font>
+- <b>1st Subject </b>: <font color='#CC0000'><b>빅데이터 수집 및 분석 </b></font>
 - <b>Our Motto   </b>: <font color='#CC0000'><b>Learning by doing, doing by learning !! </b></font>
 - <b>Report Format </b>: <a href="./docu/Big5기_프로젝트보고서_포맷_OOO팀.docx">착수보고서 양식</a>
 - ※ If you click on the image on the right, you can view "Initiation Report" by team.
@@ -70,12 +70,12 @@
 		<td>
         <div align="center"> 
             B팀<br/> 
-            <b>Team Name2</b>                                                                                                   </div></td>
+            <b>셜록 홈즈</b>                                                                                                   </div></td>
 		<td>
             <div align="left"  > 
                  재완<br/> 필훈, 지영, 예슬, 종규                                                             </div>
         </td>
-		<td><div align="left"  > 빅데이터 의료 평등화 해결하기 </div></td>
+		<td><div align="left"  > 신문기사 크롤링으로 알아보는 신문사별 정치성향 </div></td>
 		<td>
             <div align="center"> <a href="reports/..">
             <img src='images/business-newspaper.jpg' width=200 height=100></a>    
@@ -147,7 +147,7 @@
 	</tr>
 	<tr>
 		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > 의료 빅데이터를 활용 방안 모색</div></td>
+		<td><div align="left" > 신문기사 크롤링으로 알아보는 신문사별 정치성향</div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
