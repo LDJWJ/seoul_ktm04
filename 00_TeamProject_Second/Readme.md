@@ -53,11 +53,11 @@
 	<tr>
 		<td>
         <div align="center"> 
-            A팀<br/> 
+            최고 멋진 친구들<br/> 
             <b>Team Name1</b>                                                                                                   </div></td>
 		<td>
             <div align="left"  > 
-                 민지<br/> 희경, 석민, 굿프렌즈                                                        </div>
+                 민지<br/> 희경, 석민, 은지                                                        </div>
         </td>
 		<td><div align="left"  > 취업 지역 불평등 문제 해결하기 </div></td>
 		<td>
@@ -73,7 +73,7 @@
             <b>Team Name2</b>                                                                                                   </div></td>
 		<td>
             <div align="left"  > 
-                 재욱, 필훈<br/> 예슬, 굿프렌즈                                                             </div>
+                 재욱, 필훈<br/> 예슬, 종규                                                             </div>
         </td>
 		<td><div align="left"  > 빅데이터 의료 평등화 해결하기 </div></td>
 		<td>
