@@ -54,15 +54,15 @@
 		<td>
         <div align="center"> 
             A팀<br/> 
-            <b>최고 멋진 친구들</b>                                                                                                   </div></td>
+            <b>야알못들</b>                                                                                                   </div></td>
 		<td>
             <div align="left"  > 
                  민지<br/> 희경, 석민, 은지                                                        </div>
         </td>
-		<td><div align="left"  > 취업 지역 불평등 문제 해결하기 </div></td>
+		<td><div align="left"  > KBO 데이터 분석  </div></td>
 		<td>
             <div align="center"> <a href="reports/..">
-            <img src='images/job_support01.png' width=200 height=100></a>    
+            <img src='images/baseball-player.jpg' width=200 height=100></a>    
             </div>
         </td>
 	</tr>
@@ -73,18 +73,18 @@
             <b>Team Name2</b>                                                                                                   </div></td>
 		<td>
             <div align="left"  > 
-                 재욱<br/> 필훈, 지영, 예슬, 종규                                                             </div>
+                 재완<br/> 필훈, 지영, 예슬, 종규                                                             </div>
         </td>
 		<td><div align="left"  > 빅데이터 의료 평등화 해결하기 </div></td>
 		<td>
             <div align="center"> <a href="reports/..">
-            <img src='images/medical_pixabay_free.jpg' width=200 height=100></a>    
+            <img src='images/business-newspaper.jpg' width=200 height=100></a>    
             </div>
         </td>
 	</tr>
 <hr>
  
-### 서울 IT 빅데이터 실무자 양성과정 5기 !!  최고 멋진 친구들 버전 화이팅!!! ver3 ^^
+### 서울 IT 빅데이터 실무자 양성과정 5기 화이팅!!! ver1 ^^
 
 <hr>
 
@@ -117,11 +117,11 @@
 	</tr>
 	<tr>
 		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > 의료 빅데이터를 활용 방안 모색</div></td>
+		<td><div align="left" > KBO 데이터 분석</div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
-		<td><div align="left" ><a href="reports/SBA19_최종보고서01.txt"><img src="images/medical_pixabay_free.jpg" width="90%"></a></div></td>
+		<td><div align="left" ><a href="reports/SBA19_최종보고서01.txt"><img src="images/baseball-player.jpg" width="90%"></a></div></td>
 	</tr>
 </table>
 </div>
@@ -133,7 +133,7 @@
 	</tr>
 	<tr>
 		<td><div align="center"><b>Team Members</b></div></td>
-		<td><div align="left" > 재욱, 필훈, 지영, 예슬, 종규   </div></td>
+		<td><div align="left" > 재완, 필훈, 지영, 예슬, 종규   </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Report</b></div></td>
@@ -151,7 +151,7 @@
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
-		<td><div align="left" ><a href="reports/SBA19_최종보고서01.txt"><img src="images/medical_pixabay_free.jpg" width="90%"></a></div></td>
+		<td><div align="left" ><a href="reports/SBA19_최종보고서01.txt"><img src="images/business-newspaper.jpg" width="90%"></a></div></td>
 	</tr>
 </table>
 </div>
